@@ -1,0 +1,30 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE settings
+.idea/
+
+# Test and generated reports
+report/
+new_report/
+allure-results/
+allure-report/
+
+# Runtime logs
+log/
+*.log
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# OS metadata
+.DS_Store
+Thumbs.db
